@@ -1,18 +1,18 @@
    #######################
-   #  MERGEN KERGİDAY    #
+   #      PR0PH3T        #
    #######################
 
 use HTTP::Request;
 use LWP::UserAgent;
 
 system('cls');
-system('title AdminP Scanner ARAFTİM ');
+system('title AdminP Scanner TURANIST CREW ');
 system "color 0a";
 print"\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\t>             AdminP Scanner                    >\n";
-print "\t>           Author: By Mergen                   >\n";
-print "\t>             www.araf.org                      >\n";
+print "\t>           Author: By pr0ph3t                  >\n";
+print "\t>             TURANIST CREW                     >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
